@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Roboto;
+  src: url(/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: Ayla;
+  src: url(/fonts/Ayla-Script/Ayla\ script\ Free\ Demo.ttf);
+}
+
+@font-face {
+  font-family: Orenburg;
+  src: url(/fonts/Orenburg/Orenburg.ttf);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(/fonts/Poppins/Poppins-Regular.otf);
+}
